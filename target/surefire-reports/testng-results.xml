@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-31T15:50:01 CEST" name="Surefire suite" finished-at="2024-07-31T15:50:02 CEST" duration-ms="350">
+    <groups>
+    </groups>
+    <test started-at="2024-07-31T15:50:01 CEST" name="Surefire test" finished-at="2024-07-31T15:50:02 CEST" duration-ms="350">
+      <class name="com.exemple.AppTest">
+        <test-method signature="testConvertToJson()[pri:0, instance:testConvertToJson(com.exemple.AppTest)]" started-at="2024-07-31T15:50:01 CEST" name="testConvertToJson" finished-at="2024-07-31T15:50:02 CEST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConvertToJson -->
+        <test-method signature="testApp()[pri:0, instance:testApp(com.exemple.AppTest)]" started-at="2024-07-31T15:50:02 CEST" name="testApp" finished-at="2024-07-31T15:50:02 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+        <test-method signature="testCapitalizeString()[pri:0, instance:testCapitalizeString(com.exemple.AppTest)]" started-at="2024-07-31T15:50:02 CEST" name="testCapitalizeString" finished-at="2024-07-31T15:50:02 CEST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCapitalizeString -->
+      </class> <!-- com.exemple.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
